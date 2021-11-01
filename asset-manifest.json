@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/idleclicker/static/css/main.841bb50b.chunk.css",
+    "main.js": "/idleclicker/static/js/main.1e246cb3.chunk.js",
+    "main.js.map": "/idleclicker/static/js/main.1e246cb3.chunk.js.map",
+    "runtime-main.js": "/idleclicker/static/js/runtime-main.4b119ff6.js",
+    "runtime-main.js.map": "/idleclicker/static/js/runtime-main.4b119ff6.js.map",
+    "static/js/2.99083b57.chunk.js": "/idleclicker/static/js/2.99083b57.chunk.js",
+    "static/js/2.99083b57.chunk.js.map": "/idleclicker/static/js/2.99083b57.chunk.js.map",
+    "static/js/3.fd15dc0f.chunk.js": "/idleclicker/static/js/3.fd15dc0f.chunk.js",
+    "static/js/3.fd15dc0f.chunk.js.map": "/idleclicker/static/js/3.fd15dc0f.chunk.js.map",
+    "index.html": "/idleclicker/index.html",
+    "static/css/main.841bb50b.chunk.css.map": "/idleclicker/static/css/main.841bb50b.chunk.css.map",
+    "static/js/2.99083b57.chunk.js.LICENSE.txt": "/idleclicker/static/js/2.99083b57.chunk.js.LICENSE.txt",
+    "static/media/Gustav.2716c754.png": "/idleclicker/static/media/Gustav.2716c754.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b119ff6.js",
+    "static/js/2.99083b57.chunk.js",
+    "static/css/main.841bb50b.chunk.css",
+    "static/js/main.1e246cb3.chunk.js"
+  ]
+}
